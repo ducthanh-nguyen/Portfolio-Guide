@@ -12,7 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🌱 [Seed Analysis](https://github.com/ducthanh-nguyen/Seed-Analysis) | EDA | Analysis of seed dataset to identify highsight| pandas, numpy, squarify, matplotlib, seaborn |
 | 🏨 [Hotel Review Analysis](https://github.com/ducthanh-nguyen/Hotel-Review-Analysis) | EDA | Discovered insights into hotel reviews and users' frequent use of wordings | pandas, numpy, matplotlib, nltk, sklearn|
 
-# Business Analytics
+# Dashboard
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
