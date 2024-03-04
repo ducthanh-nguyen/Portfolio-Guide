@@ -5,7 +5,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [Python](#Python)
 - [Power Bi](#Power-Bi)
-
+- [Tableau](#Tableau)
+- [R](#R)
+- [Data Engineering](#Data-Engineering)
+- [Business Analytics](#Business-Analytics)
+  
 # Python
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
