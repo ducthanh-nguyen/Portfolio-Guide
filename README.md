@@ -16,7 +16,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚗 [HR Analytics Dashboard]() | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
-| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+| 🚗 [HR Analytics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWJjNmI0ZmQtNzYzOC00NGRmLTg1OTgtZDAyMzdiZDA2Mjk5IiwidCI6ImU4OGU5ZDEyLTRiNWUtNDc5ZC1hYjViLWRmZGUwMmQ1NWIyMyJ9) | June 2022 | Power Bi |  |
 
 ***
